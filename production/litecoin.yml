@@ -33,7 +33,7 @@ spec:
     spec:
       containers:
       - name: litecoin
-        image: nixwei/litecoin:latest
+        image: nixwei/litecoin:1.0-20210827-201626-develop
         resources:
           limits:
             cpu: 1
